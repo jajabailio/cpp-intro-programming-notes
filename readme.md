@@ -9,7 +9,7 @@ Creating a foundation for your programming is essential as it will help you deve
 🍎 Example: Say, you want to create your own calculator program. You will need to know how make your program read each numbers inserted by a user, and each operation between two numbers, to know what to do with them. With this is mind, the logic will be the same for every language, it's just that the syntaxes change.
 
 ## Topics Included:
-- [What is Programming?](#what-is-programming)
+- [What is Programming?](./00-Intro-Programming/readme.md)
 - [Integrated Development Environment (IDE)](./01-IDE/readme.md#integrated-development-environment)
 - [What is a Compiler?](.//02-Compiler/readme.md#what-is-a-compiler)
 - [Basic File Setup, The Include Syntax, and Using Namespace](./03-Basic-File-Setup/readme.md#basic-file-setup)
